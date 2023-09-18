@@ -27,7 +27,7 @@ If you would like to view the code and use the API on your own computer, follow 
 * When you see the notification that the server is connected on localhost:3001, you can open your tool of choice to test out the routes. I used Insomnia Core.
 
 ## Walkthrough Video
-A walkthrough video of the API routes can be found [at this link]( )
+A walkthrough video of the API routes can be found [at this link](https://drive.google.com/file/d/1V--Xu1GJfFbaRCRu9RVLxCeM3h4jWrih/view?usp=sharing)
 
 ## License
   **Licensed under the MIT License.**
