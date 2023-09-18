@@ -1,0 +1,28 @@
+{
+  "name": "nosql-social-api",
+  "version": "1.0.0",
+  "description": "This project creates an API for a fictional social networking application, allowing users to share thoughts, have friend lists, and react to friends' thoughts.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pra18apr/Social-Network-API"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pra18apr/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/pra18apr/Social-Network-API#readme"
+}
